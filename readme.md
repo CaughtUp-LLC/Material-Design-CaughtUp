@@ -1,4 +1,11 @@
-# Build a Material theme
+# CaughtUp Theme
+
+CaughtUp Material Design
+
+- [Material Theme Live App](https://caughtup.glitch.me/)
+- [Material Theme Project Page](https://glitch.com/~caughtup): To edit the theme, you need edit permissions. Ask Stephen Tan to get Edit Access.
+
+## Build a Material theme
 
 This remixable project is hosted on Glitch. With a built-in code editor and automated deployment, you can make changes and see your custom styles instantly applied to Material Components for the web. [Remix](https://glitch.com/edit/#!/remix/material-theme-builder) to get an editable copy of the project and begin customizing your own Material theme. Then navigate to the code view to make changes.
 
